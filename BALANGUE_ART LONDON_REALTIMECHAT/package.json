@@ -1,0 +1,1 @@
+{ "name": "zero-realtime-chat", "version": "2.0.0", "description": "Zero - Realtime chat with rooms, typing indicators and reactions (Node.js + SSE)", "author": "Art London Balangue", "main": "server.js", "scripts": { "start": "node server.js" }, "license": "MIT" }
